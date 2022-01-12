@@ -1,3 +1,4 @@
+//APPROACH NO - 1(Brute force approach)
 class Solution {
 public:
     char nextGreatestLetter(vector<char>& letters, char target) {
@@ -23,6 +24,7 @@ public:
     }
 };
 
+//APPROACH NO - 2
 class Solution {
 public:
     char nextGreatestLetter(vector<char>& letters, char target) {
